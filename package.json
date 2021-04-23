@@ -1,0 +1,21 @@
+{
+  "name": "zoomics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross Koeberl",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ics": "^2.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
